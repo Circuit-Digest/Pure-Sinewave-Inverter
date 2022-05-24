@@ -1,6 +1,6 @@
 # [Pure-Sinewave-Inverter](https://circuitdigest.com/)
 
-<img src="https://github.com/Circuit-Digest/Pure-Sinewave-Inverter/blob/2d551c53f3ea0fbb0fbf455b4e3fd73f1091afcc/IMG_0167.JPG" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Pure-Sinewave-Inverter/blob/cbb5b4dd976278150942484d1b22967ec8ea85f6/IMG_0176.JPG" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
@@ -9,7 +9,7 @@
 
 [<h1>Click here](https://circuitdigest.com/tags/arduino) for the complete tutorials on Arduino basics.</h1>
 
-<img src="https://github.com/Circuit-Digest/Pure-Sinewave-Inverter/blob/cbb5b4dd976278150942484d1b22967ec8ea85f6/IMG_0176.JPG" width="" alt="alt_text" title="image_tooltip">
+
 <br>
 <br>
 <br>
