@@ -1,4 +1,4 @@
-# [Pure-Sinewave-Inverter](https://circuitdigest.com/)
+# [Pure-Sinewave-Inverter](https://circuitdigest.com/electronic-circuits/300w-pure-sine-wave-inverter-circuit)
 
 <img src="https://github.com/Circuit-Digest/Pure-Sinewave-Inverter/blob/cbb5b4dd976278150942484d1b22967ec8ea85f6/IMG_0176.JPG" width="" alt="alt_text" title="image_tooltip">
 <br>
